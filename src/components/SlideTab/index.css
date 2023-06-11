@@ -1,0 +1,24 @@
+.slide-tab-cont {
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+.slide-tab-inner-cont {
+  background-color: #f8fafc;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  box-shadow: inset;
+  height: 140px;
+  border: solid black;
+}
+
+.active-slide {
+  background-color: #dbeafe;
+}

@@ -1,0 +1,7 @@
+.nav-cont {
+  background-color: #dbeafe;
+  display: flex;
+  padding-left: 20px;
+  align-items: center;
+  height: 12vh;
+}
